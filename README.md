@@ -1,4 +1,6 @@
-## LOGIN METHODS
+![logo](https://user-images.githubusercontent.com/84061266/168952259-3b683586-76c6-4bf5-8876-4964cd0ebcd3.png)
+
+## LOGIN METHODS!
 - [x] Email and password
 - [x] Name
 
