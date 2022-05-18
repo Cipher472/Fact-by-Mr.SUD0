@@ -18,5 +18,11 @@
     or
     
     $ sudo python2 Fact-by-Mr.SUD0
+
+## ORIGINAL CREATOR
+
+[Mr.Sudo/mkdirlove]
+- https://github.com/mkdirlove
+
 #
 
